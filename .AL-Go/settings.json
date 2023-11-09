@@ -2,5 +2,8 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
+  "installApps": [
+    "Dependencies\\*.zip"
+  ],
   "bcptTestFolders": []
 }
